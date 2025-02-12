@@ -1,4 +1,8 @@
+![dog](https://github.com/user-attachments/assets/58ef94ff-93df-41bd-bc7d-bc14f6dcdf12)
+
 # 👋 Welcome, Fellow Data Nerd!  
+![Uploading dog.png…
+]()
 
 ![Alt text](dog.png)
 
