@@ -1,5 +1,7 @@
 # 👋 Welcome, Fellow Data Nerd!  
 
+![Alt text](dog.png)
+
 🚀 **From Healthcare to Tech – Because Data Doesn’t Judge**  
 
 I’m a **Data Analyst** on a mission to swap out stethoscopes for SQL queries and dive headfirst into the world of **Data Science, AI, and Automation**. Coming from healthcare, I’ve seen enough messy data to last a lifetime—so why not make a career out of cleaning it?  
